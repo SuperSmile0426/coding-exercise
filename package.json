@@ -13,7 +13,9 @@
     "lerna": "^7.1.4",
     "prettier": "^2.2.1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "openai": "^4.94.0"
+  },
   "workspaces": {
     "packages": [
       "@app/scripts",
